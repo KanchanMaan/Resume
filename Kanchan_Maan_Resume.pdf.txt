@@ -1,40 +1,0 @@
-KANCHAN MAAN 
-	M.Sc. Statistics (Final Year)                                                                                                                	kanchanm22@iitk.ac.in 	: +91-8502844302 
-	Department of Mathematics and Statistics, IIT Kanpur                                                                                               	KanchanMaan   	 Kanchan 
- 
-ACADEMIC QUALIFICATIONS Year Degree/Certificate Institute CPI/% 2022-25M.Sc. Statistics IIT Kanpur 5.3 2020 B.Sc. I.C.G., I.I.S.U., Jaipur                         71.06% 2017 CLASS XII(CBSE) S.B.N.P.S., Jaipur  73.4% 2015 CLASS X (CBSE) T.P.S., Jaipur 7.8 SCHOLASTIC ACHIEVEMENTS 	 
-• Secured All India Rank 181 in IIT JAM 2022 among 2912 candidates nationwide. 
-• Received Academic Award for standing 2nd in the class of German Language Course in B.Sc. 
-PROJECTS 	 
-• Securing Finances: A Project on Credit Card Fraud Detection and Mitigation | Self Project | 	June 24-July’ 24
-? Performed EDA, Preprocessing, and Feature Creation by Weight of Evidence. 
-? Used Feature Importance Score by Random Forest, LightGBM, and XGBoost for feature selection. 
-? Model on Logistic Regression, LightGBM, XGBoost, and CatBoost, calculate precision, recall, and F1 score for accuracy check, and use AUC for final model selection. 
-? Chose LightGBM and used y pred probability to prevent fraud by 30.50%. 
-• Stock Market Analysis and Forecasting |MTH 442 Course Project | 	Aug’23-Nov’23 
-? Conducted trend estimation employing the Augmented Dicky Fuller Test (ADF). Executed a thorough analysis involving the estimation and meticulous removal of seasonality, enhancing the accuracy of our time series model.  
-? Selected the optimal model using autocorrelation function(acf) and partial autocorrelation function(pacf) graphs.  
-? Utilized Maximum Likelihood Estimator (MLE) for parameter estimation, elevating the model’s precision.  
-? Used the model to predict future stock values, offering a reliable tool for anticipating market movements. 
-• House Price Prediction | Self Project |                                                                                                                           June’23- July’23 
-? Used programming tools such as Pandas and NumPy. 
-? Model that can predict house prices based on your requirements (rooms, area, etc.) using Gradient Descent and Stochastic Gradient Descent Optimizer. 
-• Analysis of Road Accidents in India | MTH 208A Course Project |                                                                          Aug’22-Nov’22 
-? Analyze the relationship of road accidents in India with vehicular density, time, weather, and alcohol prohibition. 
-? Utilized web-scraping for data collection, employed ggplots and RShiny apps for data visualization and analysis. 
-? Provided insights into the effectiveness of alcohol prohibition on road accidents, the relationship between motor vehicle density and road accidents in major cities, and the effect of time & weather conditions on accident rates. 
-POSITION OF RESPONSIBILITIES 	 
-• Marketing Executive | KP & Company | 	May’22-July’22 
-? Conducting market research and gathering data for insights and analysis. 
-? Identifying and pursuing new business opportunities. 
-? Building and maintaining relationships with potential clients and collaborators. 
-? Collaborating with managers to prepare budgets and monitor expenses in promoting programs and services. 
-• Associate | NPV & Co | 	Sept’20-Oct’21 
-? Compiling and reviewing financial information. 
-? Preparing financial forms, documents, and reports. 
-? Assisting with the preparation of clients' budgets and financial statements. 
-? Utilize accounting software and tools to facilitate financial analysis and reporting. 
-RELEVANT COURSES Time Series Analysis  Linear Regression and ANOVA  Statistical & AI Techniques in Data Mining*    Data Science Lab  Multivariate Analysis Introduction to Probability Theory Sampling Distributions Statistical Inference Descriptive Statistics   TECHNICAL SKILLS 	 
-• Programming Languages: R, Python 
-• Databases: MYSQL 
-• Relevant Software: Jupyter Notebook, MS Word, MS Excel, MS PowerPoint 
